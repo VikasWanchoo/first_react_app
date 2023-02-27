@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          AN360 : This is react app using GitHub Actions.
+          AN360_DevOPS : This is react app using GitHub Actions.
         </p>
         <a
           className="App-link"
